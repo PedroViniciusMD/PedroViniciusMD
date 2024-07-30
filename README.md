@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**PedroViniciusMD/PedroViniciusMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bem-vindo! Eu sou Pedro Vinícius, e este é o meu perfil no GitHub.
 
-Here are some ideas to get you started:
+### Aqui estão as tecnologias em que tenho experiência:
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PedroViniciusMD GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroViniciusMD&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroViniciusMD&layout=compact)
+
+### Para colaborar ou discutir projetos, entre em contato:
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vincius-messias-delgado-2ba8602b2/)
