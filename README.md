@@ -80,4 +80,4 @@ I'm a Software Engineering student who enjoys solving real-world problems throug
 
  **Email:** pedro.delgado@upe.br
 
- **LinkedIn:** https://www.linkedin.com/in/pedro-vinicius-messias-delgado
+ **LinkedIn:** www.linkedin.com/in/pedro-vinícius-messias-delgado
