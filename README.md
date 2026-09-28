@@ -1,7 +1,7 @@
 
 # 👋 Olá! Eu sou Pedro
 
-Estudante de Engenharia de Software (6º período) na Universidade de Pernambuco (UPE) e Desenvolvedor Backend.
+Estudante de Engenharia de Software na Universidade de Pernambuco (UPE) e Desenvolvedor Backend.
 
 Tenho interesse em Engenharia de Software, Inteligência Artificial, Desenvolvimento Backend, Tecnologias em Nuvem e Arquitetura de Software.
 
